@@ -5,4 +5,11 @@ tf-nightly >= 2.5.0-dev
 scikit-learn >= 0.23.2 
 matplotlib >= 3.3.2
 
+streamlit
+opencv-python-headless
+textblob
+scipy
+numpy
+
+
 
